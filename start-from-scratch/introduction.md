@@ -8,8 +8,6 @@
 > rapidamente de forma confiável de uma ambiente
 > computacional para o outro.
 
-<br>
-
 ## Como funcionam os containers?
 
 Quando se trata de container, envolve alguns pilares que devemos estar
@@ -32,8 +30,6 @@ Caso seja feita alguma alteração na camada de Read/Write do container, é feit
 ## Onde ficam as imagens?
 
 As imagens que utilizamos ficam dentro do "IMAGE REGISTRY" do Docker. Algo parecido como o GitHub. Ou seja, toda vez que utilizamos alguma imagem dentro de um Dockerfile por exemplo, estamos efetuando um "Pull", e toda vez que realizamos o build de uma imagem, estamos efetuando o "Push".
-
-<br>
 
 ## Como o Docker funciona? (Pontos principais)
 
